@@ -3,3 +3,6 @@ Udemy project - It is a secret app where users can register, login, and post sec
 
 ## Technologies used : 
 NodeJS, ExpressJS, Mongoose, Passport, EJS
+## Register and Homepage :
+![image](https://user-images.githubusercontent.com/66831984/206606017-6f2681cd-3b18-4246-9ddc-2489bb381784.png)
+![image](https://user-images.githubusercontent.com/66831984/206606297-3596633d-6b06-4c56-a645-5848b22642b2.png)
